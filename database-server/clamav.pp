@@ -1,0 +1,3 @@
+package { 'clamav':
+  ensure => installed,
+}
